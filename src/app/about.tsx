@@ -15,7 +15,7 @@ const About = () => {
       <span className="text-7xl text-white">{"<about_me>"}</span>
       <div className="detail md:w-[50%] w-[90%] mt-20">
         <span className="text-amber-500 text-xl">
-          ...i'm as backend engineer focused on crafting robust and scalable
+          ...im as backend engineer focused on crafting robust and scalable
           systems. With expertise in Python, Java, Node.js, and Solidity, I
           excel in building efficient data pipelines and blockchain
           applications. My passion lies in transforming complex data into

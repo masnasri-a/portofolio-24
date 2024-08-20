@@ -26,7 +26,7 @@ const HeadContent = () => {
         <div className="flex flex-col items-center justify-between w-full h-dvh pb-40">
             <div className=""></div>
             <div className="content">
-            <h1 className="text-lg md:text-xl font-bold text-center text-white">// HI, I M NASRI, A ...</h1>
+            <h1 className="text-lg md:text-xl font-bold text-center text-white">\/\/ HI, I M NASRI, A ...</h1>
             <div className="text-2xl md:text-9xl">
                 <span className=' text-white'>{'{" '} </span>
                 <span className='text-amber-400 font-bold' ref={el} />
