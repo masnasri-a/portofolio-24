@@ -56,13 +56,13 @@ const Header = () => {
             </li>
             <li>
               <motion.a
-                href="#service"
+                href="#experience"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
                 transition={{ duration: 0.2 }}
                 className="block py-2 px-3 text-amber-400"
               >
-                _service
+                _experience
               </motion.a>
             </li>
             <li>

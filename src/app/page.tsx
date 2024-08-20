@@ -4,7 +4,8 @@ import HeadContent from "./head-content";
 import About from "./about";
 import Portofolio from "./portofolio";
 import { motion, useScroll } from "framer-motion";
-import Service from "./service";
+import Experience from "./experience";
+import Contact from "./contact";
 
 export default function Home() {
   const { scrollYProgress } = useScroll();
@@ -15,7 +16,8 @@ export default function Home() {
         <HeadContent />
         <About />
         <Portofolio />
-        <Service />
+        <Experience />
+        <Contact />
       </main>
     </>
   );
