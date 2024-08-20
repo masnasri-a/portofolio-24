@@ -31,7 +31,7 @@ const About = () => {
         </span>
         <span className="text-[#9a99ff]">{"</>"}</span>
         <span className="text-lg md:text-2xl  text-white md:w-[40%] w-[90%]">
-          ...I&apos;m Nasri Adzlani, a passionate backend, blockchain, and data
+          ...I m Nasri Adzlani, a passionate backend, blockchain, and data
           engineer with a thirst for knowledge and a drive to build innovative
           solutions. Fueled by my enthusiasm for web programming, data, and
           blockchain technology, I thrive in environments that challenge me to
